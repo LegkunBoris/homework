@@ -1,0 +1,9 @@
+C:\Users\Genzal\source\repos\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\Genzal\source\repos\MyApp\bin\Debug\MyApp.exe
+C:\Users\Genzal\source\repos\MyApp\bin\Debug\MyApp.pdb
+C:\Users\Genzal\source\repos\MyApp\bin\Debug\MyLib.dll
+C:\Users\Genzal\source\repos\MyApp\bin\Debug\MyLib.pdb
+C:\Users\Genzal\source\repos\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+C:\Users\Genzal\source\repos\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Genzal\source\repos\MyApp\obj\Debug\MyApp.exe
+C:\Users\Genzal\source\repos\MyApp\obj\Debug\MyApp.pdb
