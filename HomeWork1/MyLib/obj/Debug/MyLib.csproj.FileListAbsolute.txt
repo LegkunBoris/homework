@@ -1,5 +1,0 @@
-C:\Users\Genzal\source\repos\MyLib\bin\Debug\MyLib.dll
-C:\Users\Genzal\source\repos\MyLib\bin\Debug\MyLib.pdb
-C:\Users\Genzal\source\repos\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
-C:\Users\Genzal\source\repos\MyLib\obj\Debug\MyLib.dll
-C:\Users\Genzal\source\repos\MyLib\obj\Debug\MyLib.pdb
